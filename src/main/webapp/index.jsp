@@ -14,7 +14,7 @@
             --dark: #1a1a1a;
             --gray: #7a7a7a;
             --success: #28a745;
-        
+        }
 
         * {
             margin: 0;
